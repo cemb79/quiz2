@@ -11,5 +11,6 @@ public class Quiz {
 	public void doBilling(){
 		System.out.println("Inside billing");
 		System.out.println("Executing billing");
+		System.out.println("Exiting billing");
 	}
 }
